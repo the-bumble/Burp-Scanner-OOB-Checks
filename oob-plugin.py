@@ -138,7 +138,7 @@ class CustomTab(ITab):
         self.cbTitle.setFont(self.cbTitle.getFont().deriveFont(Font.BOLD))
 
         self.cbSubTitle = JLabel("Add payloads to active scanner that interact "
-                                 "with out-of-bound services (e.g., XSSHunter)")
+                                 "with out-of-band services (e.g., XSSHunter)")
         self.cbSubTitle.setFont(self.cbSubTitle.getFont().deriveFont(12.0))
 
         self.cbList = JList(self.listModel)
