@@ -1,9 +1,9 @@
-Out-of-bound Checks
+Out-of-band Checks
 ============
 
 This is a Burp extension for adding additional payloads to active scanner that require out-of-band validation.
 
-![Out-of-bound Checks](/demo.png?raw=true)
+![Out-of-band Checks](/demo.png?raw=true)
 
 ## Installation
 
